@@ -3,6 +3,6 @@
 int main()
 {
     afisare();
-
+    afisare();
     return 0;
 }
