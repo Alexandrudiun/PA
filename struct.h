@@ -1,6 +1,5 @@
-typedef struct 
+typedef struct
 {
-    char *denumire;
-    int pret;
-    char cod[5];
-} Piesa;
+    int key;
+    int val;
+} Pair;
